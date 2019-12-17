@@ -1,0 +1,34 @@
+/*langat  */
+.var {
+    font-weight: bolder;
+    margin-left: 4rem;
+}
+span {
+    font-size: 3rem;
+    color: white;
+    font-weight: bolder;
+}
+/*landing page*/
+.toppage {
+    height: 100vh;
+}
+
+.toptext {
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    margin-top: -120px;
+    left: 0;
+    line-height: 40px;
+    width: 100%;
+}
+body{
+    background-image: url(images/landing.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: unset;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+}
+
+/*langat  */
